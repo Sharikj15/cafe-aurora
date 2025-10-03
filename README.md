@@ -13,3 +13,6 @@ Soy programdora en proceso de la ufpso...
 
 - [@Sharikj15](https://github.com/Sharikj15)
 
+## pagina
+
+- [mockup](https://www.figma.com/design/Ob0DuCeL8AaVQmkJUAxK9B/Sin-t%C3%ADtulo?node-id=0-1&t=J4INKhaH1mvGoHWg-1)
