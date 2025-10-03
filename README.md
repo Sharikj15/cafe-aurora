@@ -15,4 +15,4 @@ Soy programdora en proceso de la ufpso...
 
 ## pagina
 
-- [mockup](https://www.figma.com/design/Ob0DuCeL8AaVQmkJUAxK9B/Sin-t%C3%ADtulo?node-id=0-1&t=J4INKhaH1mvGoHWg-1)
+- [mockup](https://www.figma.com/proto/Ob0DuCeL8AaVQmkJUAxK9B/Sin-t%C3%ADtulo?node-id=1-2&t=Mg7ofULM3b2tGdcw-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)
